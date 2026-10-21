@@ -1,0 +1,6 @@
+{
+ "entries_B_total": 3348250,
+ "entries_B_resolved": 2877284,
+ "resolved_share": 0.8593,
+ "note": "held to settlement = market's final outcome, closed markets only; open markets excluded; buckets_settlement.csv is before fees (gross); groups_net*.csv and months_net.csv subtract the fees each wallet actually paid; move24_c = the 24 h price move the Early score is built on"
+}

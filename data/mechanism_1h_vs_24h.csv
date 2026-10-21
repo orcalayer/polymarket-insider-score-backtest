@@ -1,0 +1,4 @@
+group_from_A,move_1h_cents_B,move_24h_cents_B,ratio_24h_to_1h
+top10,0.75,0.83,1.12
+bottom10,-0.84,-0.76,0.91
+all,-0.05,-0.01,

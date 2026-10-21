@@ -1,0 +1,38 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='440' viewBox='0 0 760 440' role='img' aria-labelledby='t d'>
+<title id='t'>Polymarket Early score: the move is there after 1 hour</title>
+<desc id='d'>Grouped bar chart. Top 10% of period A: +0.75 cents after 1 hour, +0.83 after 24 hours. Bottom 10%: -0.84 and -0.76. All wallets: -0.05 and -0.01. The move barely grows after the first hour.</desc>
+<rect width='100%' height='100%' fill='#fcfcfb'/>
+<text x='24.0' y='34.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='18' fill='#0b0b0b' text-anchor='start' font-weight='600' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Polymarket Early score: the move is there after 1 hour</text>
+<text x='24.0' y='56.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='13' fill='#52514e' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Price move in the wallet's favor after its entries, period B (Apr-Sep 2026), cents per entry</text>
+<line x1='70' y1='370.0' x2='730' y2='370.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='374.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-1.0</text>
+<line x1='70' y1='305.0' x2='730' y2='305.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='309.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-0.5</text>
+<line x1='70' y1='240.0' x2='730' y2='240.0' stroke='#52514e' stroke-width='1.5'/>
+<text x='62.0' y='244.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0</text>
+<line x1='70' y1='175.0' x2='730' y2='175.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='179.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+0.5</text>
+<line x1='70' y1='110.0' x2='730' y2='110.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='114.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+1.0</text>
+<text x='180.0' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Top 10% of period A</text>
+<rect x='145.0' y='142.5' width='34.0' height='97.5' rx='3' fill='#2a78d6'/>
+<text x='162.0' y='136.5' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+0.75</text>
+<rect x='181.0' y='132.1' width='34.0' height='107.9' rx='3' fill='#eb6834'/>
+<text x='198.0' y='126.1' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+0.83</text>
+<text x='400.0' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Bottom 10% of period A</text>
+<rect x='365.0' y='240.0' width='34.0' height='109.2' rx='3' fill='#2a78d6'/>
+<text x='382.0' y='364.2' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-0.84</text>
+<rect x='401.0' y='240.0' width='34.0' height='98.8' rx='3' fill='#eb6834'/>
+<text x='418.0' y='353.8' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-0.76</text>
+<text x='620.0' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>All wallets</text>
+<rect x='585.0' y='240.0' width='34.0' height='6.5' rx='3' fill='#2a78d6'/>
+<text x='602.0' y='261.5' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-0.05</text>
+<rect x='621.0' y='240.0' width='34.0' height='1.3' rx='3' fill='#eb6834'/>
+<text x='638.0' y='256.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-0.01</text>
+<text x='400.0' y='418.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Wallet group, chosen by Early score on period A (Oct 2025-Mar 2026)</text>
+<text transform='translate(18 240.0) rotate(-90)' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle'>cents per entry</text>
+<rect x='70.0' y='73' width='10' height='10' rx='2' fill='#2a78d6'/>
+<text x='85.0' y='82.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>After 1 hour</text>
+<rect x='199.0' y='73' width='10' height='10' rx='2' fill='#eb6834'/>
+<text x='214.0' y='82.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>After 24 hours</text>
+</svg>

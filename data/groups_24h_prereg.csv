@@ -1,0 +1,5 @@
+group_from_A,wallets_in_B,entries_in_B,events,move24_cents,t_clustered_by_event,move24_without_top5_events,t_without_top5,event_equal_weight_cents,share_entries_ge_3c
+top10,10342,417769,27024,0.834,7.93,0.884,8.49,1.832,0.315
+neutral,83890,1492914,41582,-0.075,-1.32,-0.098,-1.6,0.08,0.136
+bottom10,10062,230966,21793,-0.756,-4.71,-0.796,-4.56,-1.046,0.248
+all,223738,3348250,45695,-0.012,-0.18,-0.027,-0.38,0.388,0.193

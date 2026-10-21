@@ -1,0 +1,4 @@
+component,rank_corr_A_to_B,B_top10_by_A_cents,B_bottom10_by_A_cents,B_all_cents,wallets,note
+first_hour_move (entry price vs others),0.138,1.16,-0.99,0.06,32867,"exploratory, not pre-registered"
+drift_1h_to_24h (knew ahead),0.05,0.16,0.09,0.06,32867,"exploratory, not pre-registered"
+score M(A) -> mean move(B) 24h (pre-registered),0.0904,,,,49650,pre-registered
