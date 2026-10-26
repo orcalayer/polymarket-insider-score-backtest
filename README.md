@@ -1,7 +1,9 @@
 # Polymarket insider score backtest: entry price, not foresight
 
-**Issue 4, October 2026.** Research by the [OrcaLayer](https://orcalayer.com) team using on-chain Polymarket trades.
-Write-up: [Polymarket Insider Score: Cheap Entries, Not Foresight](https://orcalayer.com/blog/polymarket-insider-score-entry-price).
+Built with the [OrcaLayer API](https://orcalayer.com/developers?utm_source=github&utm_medium=readme&utm_campaign=issue4): `scripts/early_score_check.py` reruns this test on it.
+
+**Issue 4, October 2026.** Research by the [OrcaLayer](https://orcalayer.com/?utm_source=github&utm_medium=readme&utm_campaign=issue4) team using on-chain Polymarket trades.
+Write-up: [Polymarket Insider Score: Cheap Entries, Not Foresight](https://orcalayer.com/blog/polymarket-insider-score-entry-price?utm_source=github&utm_medium=readme&utm_campaign=issue4&utm_content=article).
 
 We built a wallet score meant to catch traders who get in before the news (the Early score), wrote its rules down before any
 run, scored 355,732 wallets on their trades from October 2025 to March 2026 and checked the same wallets from April to
@@ -118,9 +120,9 @@ found the same 21,209 entries (ours had 4 more, each at exactly $100.00), with e
 
 ## Earlier issues
 
-- [Polymarket strategies that don't work](https://orcalayer.com/blog/polymarket-strategies-that-dont-work) ([repo](https://github.com/orcalayer/polymarket-arbitrage-market-making-copy-trading-backtests))
-- [Copying Polymarket whales](https://orcalayer.com/blog/polymarket-copy-trading-whales-backtest) ([repo](https://github.com/orcalayer/polymarket-copy-trading-whales-backtest))
-- [Live football: late goals and stop-losses](https://orcalayer.com/blog/polymarket-live-football-late-goals-stop-loss) ([repo](https://github.com/orcalayer/polymarket-football-late-goal-stop-loss-backtest))
+- [Polymarket strategies that don't work](https://orcalayer.com/blog/polymarket-strategies-that-dont-work?utm_source=github&utm_medium=readme&utm_campaign=issue4) ([repo](https://github.com/orcalayer/polymarket-arbitrage-market-making-copy-trading-backtests))
+- [Copying Polymarket whales](https://orcalayer.com/blog/polymarket-copy-trading-whales-backtest?utm_source=github&utm_medium=readme&utm_campaign=issue4) ([repo](https://github.com/orcalayer/polymarket-copy-trading-whales-backtest))
+- [Live football: late goals and stop-losses](https://orcalayer.com/blog/polymarket-live-football-late-goals-stop-loss?utm_source=github&utm_medium=readme&utm_campaign=issue4) ([repo](https://github.com/orcalayer/polymarket-football-late-goal-stop-loss-backtest))
 
 ## License
 
